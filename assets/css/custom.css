@@ -37,9 +37,6 @@ added to the button in the index html file as well.*/
   padding: 10em 4em 9em 4em;
 }
 
-#banner .button.redbtn:hover {
-  background-color: rgba(188, 46, 26, .8);
-}
 
 
 
